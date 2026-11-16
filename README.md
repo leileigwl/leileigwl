@@ -3,13 +3,13 @@
 # Hi, I'm `@leileigwl`
 
 <a href="https://github.com/leileigwl">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=3000&pause=1000&color=111111&center=true&vCenter=true&width=640&lines=Independent+AI+Product+Builder;Creative+Tools+%C2%B7+Multi-Agent+Workflows;Full-Stack+Engineering%3A+Python+%C2%B7+TypeScript+%C2%B7+Go" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=3000&pause=1000&color=111111&center=true&vCenter=true&width=640&lines=Independent+AI+Creator+%26+Developer;Full-Stack+Engineering%3A+Python+%C2%B7+TypeScript+%C2%B7+Go" alt="Typing SVG" />
 </a>
 
 <br />
 
 [![GitHub](https://img.shields.io/badge/GitHub-@leileigwl-111111?style=flat-square&logo=github)](https://github.com/leileigwl)
-[![Blog](https://img.shields.io/badge/Blog-Writing%20%26%20Notes-2563EB?style=flat-square&logo=astro&logoColor=white)](https://astro-paper-alpha-one.vercel.app)
+[![Blog](https://img.shields.io/badge/Blog-Writing%20%26%20Notes-2563EB?style=flat-square&logo=astro&logoColor=white)](https://210214.xyz)
 [![Profile Views](https://komarev.com/ghpvc/?username=leileigwl&label=Views&color=111111&style=flat-square)](https://github.com/leileigwl)
 
 </div>
@@ -18,20 +18,18 @@
 
 ### About / 关于我
 
-**Independent AI Product Builder** focused on turning frontier models into tactile, self-hostable creative software and developer workflows.
+**Independent AI Creator & Developer** — building small, useful AI tools end to end.
 
-独立 AI 产品与全栈开发者 — 专注 **AI 无限画布、多智能体协同、自动化生产力工具与私有化工程落地**，追求从底层架构、安全隔离到交互体验的完整交付。
+独立 AI 创作者 · 独立开发者，自己做产品，也自己写代码。
 
 ---
 
-### Featured Open-Source Projects / 原创代表作
+### Currently Building / 在做的项目
 
-| Project | Focus | Stack | Highlights |
-| :--- | :--- | :--- | :--- |
-| [**FlowCanvas**](https://github.com/leileigwl/online-canvas-platform) | AI Infinite Canvas & Multi-Agent Studio | `Python` `FastAPI` `LangGraph` `React 19` `Konva` | Warm-ivory infinite canvas, 5 BYOK image adapters (`Nano Banana` / `GPT-Image` / `DashScope` / `Seedream` / `SiliconFlow`), SSE multi-agent orchestration, Harness memory & SMTP OTP auth |
-| [**Codex Pixel Pet**](https://github.com/leileigwl/codex-pixel-pet) | Desktop AI Companion | `Python` | Turn any image into an animated desktop pixel pet built for AI coding workflows |
-| [**Claude Code Installer**](https://github.com/leileigwl/claude-code-installer) | Developer Automation | `Shell` | One-click macOS deployment & mirror acceleration for Claude Code setups |
-| [**Claude Skills**](https://github.com/leileigwl/claude-skills) & [**Blog**](https://astro-paper-alpha-one.vercel.app) | Agent Tooling & Writing | `TypeScript` `Astro` | Reusable agent skills, workflow automation, and technical engineering notes |
+- [**知行快刷 ZhiXing Quiz**](https://github.com/leileigwl/zhixing-quiz) — AI 知识库自测与闯关微信小程序
+- [**AI Study Workbench**](https://github.com/leileigwl/ai-study-workbench) — 基于资料的主动学习工作台
+- [**FlowCanvas**](https://github.com/leileigwl/online-canvas-platform) — AI 无限画布与多智能体创作工具
+- [**Blog**](https://210214.xyz) — 技术笔记与工作记录
 
 ---
 
