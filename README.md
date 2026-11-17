@@ -20,7 +20,7 @@
 
 **Independent AI Creator & Developer** — building small, useful AI tools end to end.
 
-独立 AI 创作者 · 独立开发者，自己做产品，也自己写代码。
+独立 AI 创作者。
 
 ---
 
